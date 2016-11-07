@@ -1,4 +1,4 @@
-#Toturial
+#Tutorial
 
 This tutorial will show you how to build a BLE IoT network with `ble-shepherd`. `ble-shepherd` will become a BLE network server once it is started, and you can use it to control or manage the devices in the BLE network.
 
